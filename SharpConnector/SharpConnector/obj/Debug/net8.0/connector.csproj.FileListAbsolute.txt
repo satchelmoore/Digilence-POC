@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\SharpProject\SharpConnector\bin\Debug\net8.0\connector.exe
+C:\Users\hp\Desktop\SharpProject\SharpConnector\bin\Debug\net8.0\connector.deps.json
+C:\Users\hp\Desktop\SharpProject\SharpConnector\bin\Debug\net8.0\connector.runtimeconfig.json
+C:\Users\hp\Desktop\SharpProject\SharpConnector\bin\Debug\net8.0\connector.dll
+C:\Users\hp\Desktop\SharpProject\SharpConnector\bin\Debug\net8.0\connector.pdb
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.AssemblyInfo.cs
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.dll
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\refint\connector.dll
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.pdb
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\connector.genruntimeconfig.cache
+C:\Users\hp\Desktop\SharpProject\SharpConnector\obj\Debug\net8.0\ref\connector.dll
