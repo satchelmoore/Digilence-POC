@@ -42,7 +42,7 @@ Please make sure after running: uvicorn api:app --reload that you're getting the
 
 In the first request I've asked for a summary from all data fed to the model, and the answer was accurate
 
-![Postman Test](./Capture.png)
+![Postman Test](Capture.png)
 
 
 
