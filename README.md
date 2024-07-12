@@ -32,6 +32,14 @@ This repository contains C# code (`SharpConnector`) for connecting to an API and
 ## Testing
 - For initial testing, use the `test2.doc` file to evaluate performance.
 
+You can find attached some examples of previous tests using Postman:
+
+The endpoint is the following: http://127.0.0.1:8000
+
+Please make sure after running: uvicorn api:app --reload that you're getting the same url endpoint, otherwhise change it to the right url.
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
