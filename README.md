@@ -47,6 +47,12 @@ In the first request I've asked for a summary from all data fed to the model, an
 
 
 ## What's next
+Provide more context to uploaded documents -> Currently Building dedicated module for indexing using Azure API.
+##Approach:
+##Pros:
+Better answers: we're using NLTK to make a cosin similarty between a set of questions and the question asked by the user, the set of questions is a one time Token heavinly consuming process that occurs one time when document uploaded first time.
+instead of matching the question with a set of keyword to deduce which chunk of text contains the right infomation, 
+
 
 
 ## License
