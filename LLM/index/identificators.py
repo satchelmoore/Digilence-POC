@@ -23,3 +23,14 @@ def adduuid(file_path):
         json.dump(data, file, indent=4)
 
     file_path
+
+def generate_uuid():
+    return str(uuid.uuid4())
+
+
+def validate_uuid(uuid_string):
+    try:
+        val = uuid.UUID(uuid_string, version=4)
+        return True
+    except ValueError:
+        return False
