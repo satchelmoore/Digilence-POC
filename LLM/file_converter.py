@@ -29,3 +29,13 @@ def doc_to_text(doc_path):
             word.Quit()
         return None
 
+def pdf_to_txt(input_file, output_file):
+    import PyPDF2
+
+    pdf_file = open(input_file, "rb")
+    pdf_reader = PyPDF2.PdfFileReader(pdf_file)
+    with open(output_file, "w") as file:
+        for page_num in range(pdf_reader.numPages):
+            page = pdf_reader.getPage(page_num)
+            file.write(page.extract_text())
+    pdf_file.close()
