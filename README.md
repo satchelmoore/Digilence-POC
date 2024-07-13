@@ -51,7 +51,8 @@ Provide more context to uploaded documents -> Currently Building dedicated modul
 ##Approach:
 ##Pros:
 Better answers: we're using NLTK to make a cosin similarty between a set of questions and the question asked by the user, the set of questions is a one time Token heavinly consuming process that occurs one time when document uploaded first time.
-instead of matching the question with a set of keyword to deduce which chunk of text contains the right infomation, 
+instead of matching the question with a set of keyword to deduce which chunk of text contains the right infomation, answers are designed in this way.
+According to "chunk" the answer is "answer", this will allow to fulfill question where information is stored.
 
 
 
