@@ -51,7 +51,7 @@ async def upload_doc(file: UploadFile = File(...), question: str = Form(None)):
            
             flattened = flatten_chunked_sentences(chunked)
             conversation=[]
-            for sentence in flattened:
+            for sentence in flattened[:5]:
                 for i in question.split():
                     if i in sentence:
                         conversation=add_message(conversation, "user", sentence)
