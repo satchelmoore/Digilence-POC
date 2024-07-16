@@ -1,5 +1,9 @@
 # SharpConnector & LLM
 
+
+[Live Demo](https://q-anltk-5cmekqmcklqubvarbinw2u.streamlit.app/)
+
+
 ## Overview
 This repository contains C# code (`SharpConnector`) for connecting to an API and a Q&A document processor (`LLM`). `LLM` processes questions and answers using an API, focusing on accuracy and efficiency for shorter documents.
 
